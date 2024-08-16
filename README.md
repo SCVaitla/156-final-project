@@ -1,0 +1,1 @@
+This program is designed as an invoice system for an automotive dealership. It retrieves customer information from an SQL database, calculates bills for various services, applies qualifying discounts based on customer data, updates the SQL database to reflect new balances, and prints individual invoices as well as a summary invoice.
